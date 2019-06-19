@@ -41,7 +41,7 @@ public class Aluno extends Pessoa{
     
     //**Métodos Públicos
     public void cancelarMatricula(){
-        System.out.println("Matrícula será cancelada!");
+        System.out.println("Matrícula será Cancelada!");
         
     }
     
